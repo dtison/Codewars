@@ -17,7 +17,7 @@ Use this link to join
 
 (www.codewars.com/r/qx9chA)
 
-if you want to credit me with recommending the site.
+if you want to credit me with recommending the site.  Thanks!
 
 
 
