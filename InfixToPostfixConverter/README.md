@@ -5,7 +5,7 @@ Codewars Kata
 
 C++ code [passes all tests](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f) on 2017/03/25
 
-Original [Are the Numbers in Order](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f) kata.
+Original [Infix to Postfix Converter](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f) kata.
 
 
 **Note about source comments:**
